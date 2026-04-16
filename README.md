@@ -1,3 +1,5 @@
+Bugzilla: https://bugzilla.mozilla.org/show_bug.cgi?id=2032263
+
 # Minimal `decodeAudioData()` AAC offset repro
 
 > Repository created with GPT-5.4
